@@ -8,4 +8,8 @@ This module is  developed for joindevops company, projects inside joindevops fol
 
 * cidr_block (Optional) - Users no need to specify cidr_block. Default one is "10.0.0.0/16"
 
+## Outputs
+
+* vpc_id - Exports VPC id created.
+
 
