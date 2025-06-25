@@ -11,5 +11,6 @@ This module is  developed for joindevops company, projects inside joindevops fol
 ## Outputs
 
 * vpc_id - Exports VPC id created.
+* public_subnet_ids - List of public subnet ids
 
 
