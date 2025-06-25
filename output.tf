@@ -7,3 +7,11 @@ output "public_subnet_ids" {
   value = aws_subnet.public[*].id #here * is all, we will get a list of subnet ids, here we created 2 public subnets
 }
 
+
+output "private_subnet_ids" {
+  value = aws_subnet_private[*].id
+}
+
+output "database_subnet_ids" {
+  value = aws_subnet.database[*].id
+}

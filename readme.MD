@@ -1,5 +1,5 @@
 # VPC Module
-This module is  developed for joindevops company, projects inside joindevops follows this to create the VPC.
+This module is developed for joindevops company, projects inside joindevops follows this to create the VPC.
 
 ## Input
 * project (Required) - Users should specify a project name
